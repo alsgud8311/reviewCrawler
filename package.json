@@ -1,0 +1,16 @@
+{
+  "name": "eta",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "selenium-webdriver": "^4.32.0"
+  }
+}
